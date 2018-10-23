@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://ban-vai-2013.googlecode.com/svn/trunk/admin/ckeditor/plugins/ajaxfilemanager/jscripts/edit_area
+https://ban-vai-2013.googlecode.com/svn
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+f178f189-cff6-2352-78ad-01eb337c3e39
+
+reg_syntax
+dir
+
+
+
+add
+
+edit_area.css
+file
+
+
+
+add
+
+langs
+dir
+
+
+
+add
+
+images
+dir
+
+
+
+add
+
+edit_area_full.js
+file
+
+
+
+add
+

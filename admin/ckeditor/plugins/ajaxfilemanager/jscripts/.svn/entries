@@ -1,0 +1,189 @@
+10
+
+dir
+0
+https://ban-vai-2013.googlecode.com/svn/trunk/admin/ckeditor/plugins/ajaxfilemanager/jscripts
+https://ban-vai-2013.googlecode.com/svn
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+f178f189-cff6-2352-78ad-01eb337c3e39
+
+for_form.js
+file
+
+
+
+add
+
+contextmenu.js
+file
+
+
+
+add
+
+calendar.js
+file
+
+
+
+add
+
+thickbox.js
+file
+
+
+
+add
+
+for_tinymce.js
+file
+
+
+
+add
+
+ajaxfilemanager.js
+file
+
+
+
+add
+
+select.js
+file
+
+
+
+add
+
+media.js
+file
+
+
+
+add
+
+jquery.js
+file
+
+
+
+add
+
+for_fckeditor.js
+file
+
+
+
+add
+
+ajaxfilemanager_c.js
+file
+
+
+
+add
+
+iutil.js
+file
+
+
+
+add
+
+ajaxfileupload.js
+file
+
+
+
+add
+
+iresizable.js
+file
+
+
+
+add
+
+for_stand_alone.js
+file
+
+
+
+add
+
+ajaximageeditor.js
+file
+
+
+
+add
+
+rotate.js
+file
+
+
+
+add
+
+ajaximageeditor_c.js
+file
+
+
+
+add
+
+ajaxtexteditor.js
+file
+
+
+
+add
+
+interface.js
+file
+
+
+
+add
+
+ajaxtexteditor_c.js
+file
+
+
+
+add
+
+edit_area
+dir
+
+
+
+add
+
+form.js
+file
+
+
+
+add
+

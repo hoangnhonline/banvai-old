@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://ban-vai-2013.googlecode.com/svn/trunk/admin/ckeditor/plugins/ajaxfilemanager/inc
+https://ban-vai-2013.googlecode.com/svn
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+f178f189-cff6-2352-78ad-01eb337c3e39
+
+class.pagination.php
+file
+
+
+
+add
+
+function.base.php
+file
+
+
+
+add
+
+config.php
+file
+
+
+
+add
+
+class.history.php
+file
+
+
+
+add
+
+class.auth.php
+file
+
+
+
+add
+
+data.php
+file
+
+
+
+add
+
+class.search.php
+file
+
+
+
+add
+
+config.tinymce.php
+file
+
+
+
+add
+
+config.base.php
+file
+
+
+
+add
+
+class.manager.php
+file
+
+
+
+add
+
+class.file.php
+file
+
+
+
+add
+
+class.sessionaction.php
+file
+
+
+
+add
+
+class.image.php
+file
+
+
+
+add
+
+class.session.php
+file
+
+
+
+add
+
+class.upload.php
+file
+
+
+
+add
+

@@ -1,0 +1,115 @@
+.S {FONT-SIZE: 8pt; BACKGROUND: #FFFFFF; COLOR: #000000; FONT-FAMILY: 'Arial'; TEXT-ALIGN: left; font-weight:bold;}
+.V {FONT-SIZE: 8pt; BACKGROUND: #FFFFFF; COLOR: #000000; FONT-FAMILY: 'Arial'; TEXT-ALIGN: right;}
+.S2{FONT-WEIGHT: bold; FONT-SIZE: 12pt;  COLOR: #F7FF31; FONT-FAMILY: 'Arial'; TEXT-ALIGN: left}
+.ST{FONT-SIZE: 10pt;  COLOR: #a5a3a3; FONT-FAMILY: 'Arial'; TEXT-ALIGN: left}
+.C {FONT-SIZE: 10pt;  COLOR: #FF00FF; FONT-FAMILY: 'Arial'; TEXT-ALIGN: right}
+.F {FONT-SIZE: 10pt;  COLOR: #66CCFF; FONT-FAMILY: 'Arial'; TEXT-ALIGN: right}
+.Y {FONT-SIZE: 8pt;  COLOR: #F7FF31; FONT-FAMILY: 'Arial'; TEXT-ALIGN: right; BACKGROUND:#999999;}
+.R {FONT-SIZE: 8pt;  COLOR: #FF0000; FONT-FAMILY: 'Arial'; TEXT-ALIGN: right; BACKGROUND:#999999;}
+.G {FONT-SIZE: 8pt;  COLOR: #00FF00; FONT-FAMILY: 'Arial'; TEXT-ALIGN: right; BACKGROUND:#999999;}
+.W {FONT-SIZE: 10pt;  COLOR: #FFFFFF; FONT-FAMILY: 'Arial'; TEXT-ALIGN: right}
+.AP{FONT-WEIGHT: bold; FONT-SIZE: 12pt;  COLOR: #F7FF31; FONT-FAMILY: 'Arial'; TEXT-ALIGN: right}
+.T {FONT-WEIGHT: bold; FONT-SIZE: 12pt;  COLOR: #00FF00; FONT-FAMILY: 'Arial'; TEXT-ALIGN: left}
+.AL{FONT-SIZE: 10pt;  COLOR: #F7FF31; FONT-FAMILY: 'Arial'; TEXT-ALIGN: left}
+.ALB{FONT-WEIGHT: bold; FONT-SIZE: 10pt;  COLOR: #00FF00; FONT-FAMILY: 'Arial'; TEXT-ALIGN: left}
+.ALR{FONT-WEIGHT: normal; FONT-SIZE: 10pt;  COLOR: #00FF00; FONT-FAMILY: 'Arial'; TEXT-ALIGN: left}
+.ACB{FONT-WEIGHT: bold; FONT-SIZE: 10pt;  COLOR: #00FF00; FONT-FAMILY: 'Arial'; TEXT-ALIGN: center}
+.AR{FONT-SIZE: 10pt;  COLOR: #00FF00; FONT-FAMILY: 'Arial'; TEXT-ALIGN: Right}
+.ARB{FONT-WEIGHT: bold; FONT-SIZE: 10pt;  COLOR: #00FF00; FONT-FAMILY: 'Arial'; TEXT-ALIGN: Right}
+.Box {FONT-WEIGHT: bold; FONT-SIZE: 12pt;  COLOR: #a5a3a3; FONT-FAMILY: 'Arial'; TEXT-ALIGN: left}
+.Norm {FONT-SIZE: 10pt;  COLOR: #a5a3a3; FONT-FAMILY: 'Arial'; TEXT-ALIGN: left}
+.REF{text-decoration: none; FONT-WEIGHT: bold; FONT-SIZE: 22pt;  COLOR: #F7FF31; FONT-FAMILY: 'Arial'}
+	
+.MarqueeDate 	{font-size: 10pt;  color: #9d0000; font-family: 'arial'; padding: 0 8 0 8 }
+.MarqueePoint 	{font-size: 10pt;  color: #015396; font-family: 'arial'; padding: 0 8 0 8 }
+.MarqueeQuantity{font-size: 10pt;  color: #ffffff; font-family: 'arial'; padding: 0 8 0 8 }
+.MarqueeValue 	{font-size: 10pt;  color: #ffffff; font-family: 'arial'; padding: 0 8 0 8 }
+.MarqueeVolumn 	{font-size: 10pt;  color: #ffffff; font-family: 'arial'; padding: 0 8 0 8 }
+
+.cTableCheckBox	{BORDER: 1px solid #6c7170; BORDER-COLLAPSE: collapse; background-color: #000000}
+.cTextCheckBox	{font-family:Courier New; font-size:14px; font-weight:bold; color: #adadad;}
+.cTableSmall {BORDER: 1px solid #666666; background: #FFFFFF; border-collapse:collapse;}
+
+.cTableQuote	{BORDER-TOP-WIDTH: 3px; BORDER-BOTTOM-WIDTH: 3px; BORDER-COLLAPSE: collapse; border-color:#6c7170} 
+.cTableHeader	{font-family:tahoma; font-size:8pt; font-weight:bold; color: #f7ff31; border-color:#6c7170}
+.cTableHeaderB	{font-family:tahoma; font-size:8pt; font-weight:bold; color: #f7ff31; BORDER-TOP-WIDTH: 3px; BORDER-RIGHT-WIDTH: 3px; BORDER-LEFT-WIDTH: 3px; text-align:center; border-color:#6c7170}
+.cTableHeaderS	{font-family:tahoma; font-size:8pt; font-weight:bold; color: #f7ff31; BORDER-TOP-WIDTH: 3px; BORDER-RIGHT-WIDTH: 3px; BORDER-LEFT-WIDTH: 3px; text-align:center; border-color:#6c7170}
+.cTableHeaderT	{font-family:tahoma; font-size:8pt; font-weight:bold; color: #f7ff31; BORDER-TOP-WIDTH: 3px; BORDER-RIGHT-WIDTH: 3px; BORDER-LEFT-WIDTH: 3px; text-align:center; border-color:#6c7170}
+.cTableHeader1	{font-family:tahoma; font-size:8pt; font-weight:bold; color: #f7ff31; BORDER-TOP-WIDTH: 3px; text-align:center; border-color:#6c7170}
+.cTableHeader2	{font-family:tahoma; font-size:8pt; font-weight:bold; color: #f7ff31; BORDER-RIGHT-WIDTH: 3px; text-align:center; border-color:#6c7170}
+.cTableHeader3	{font-family:tahoma; font-size:8pt; font-weight:bold; color: #f7ff31; BORDER-BOTTOM-WIDTH: 3px; text-align:center; border-color:#6c7170}
+.cTableHeader4	{font-family:tahoma; font-size:8pt; font-weight:bold; color: #f7ff31; BORDER-LEFT-WIDTH: 3px; text-align:center; border-color:#6c7170}
+.cTableHeader5	{font-family:tahoma; font-size:8pt; font-weight:bold; color: #f7ff31; BORDER-WIDTH: 3px; Text-align:center; border-color:#6c7170}
+.cTableHeader34	{font-family:tahoma; font-size:8pt; font-weight:bold; color: #f7ff31;  BORDER-BOTTOM-WIDTH: 3px; BORDER-LEFT-WIDTH: 3px; text-align:center; border-color:#6c7170}
+.cTableHeader32	{font-family:tahoma; font-size:8pt; font-weight:bold; color: #f7ff31;  BORDER-BOTTOM-WIDTH: 3px; BORDER-RIGHT-WIDTH: 3px; text-align:center; border-color:#6c7170}
+
+.cColumnTotal	{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:bold; color: #ffffff; border-color:#6c7170}
+.cColumnQuantiyN{font-family:tahoma; text-align:right; padding: 0 2 0 2; font-size:8pt; font-weight:bold; color: #003062; border-color:#6c7170}
+
+.cRowOdd		{font-family:tahoma; font-size:8pt; font-weight:bold; background-color: #f1f4f9; text-align:right; padding: 0 2 0 2;}
+.cRowEven		{font-family:tahoma; font-size:8pt; font-weight:bold; background-color: #ffffff; text-align:right; padding: 0 2 0 2;}
+
+.cColumnCode	{font-family:Courier New; font-size:14px; font-weight:bold; text-align:left; padding: 0 2 0 6; color: #f7ff31;  BORDER-RIGHT-WIDTH: 3px; border-color:#6c7170}
+.cColumnMedium	{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #f7ff31; border-color:#6c7170}
+.cColumnMax		{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #ff00ff; border-color:#6c7170}
+.cColumnMin		{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #66ccff; border-color:#6c7170}
+.cColumnQuantiy	{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #003062; border-color:#6c7170}
+.cColumnPositive{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #00ff00; border-color:#6c7170}
+.cColumnMinus	{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #ff0000; border-color:#6c7170}
+.cColumnFixed	{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #f7ff31; border-color:#6c7170}
+.cColumnFixedN	{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #f7ff31; border-color:#6c7170}
+.cColumnFixedH	{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #f7ff31; border-color:#6c7170}
+.cColumnData	{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #ffffff; border-color:#6c7170}	
+.cColumnDataN	{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #ffffff; border-color:#6c7170}
+.cColumnDataB	{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #ffffff; border-color:#6c7170}
+
+.cColumnMediumN	{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #f7ff31; border-color:#6c7170}
+.cColumnMaxN	{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #ff00ff; border-color:#6c7170}
+.cColumnMinN	{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #66ccff; border-color:#6c7170}
+.cColumnPositiveN{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #00ff00; border-color:#6c7170}
+.cColumnMinusN	{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #ff0000; border-color:#6c7170}
+
+.cColumnTMediumN	{font-family:tahoma; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:bold; color: #f7ff31; border-color:#6c7170}
+.cColumnTMaxN	{font-family:tahoma; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:bold; color: #ff00ff; border-color:#6c7170}
+.cColumnTMinN	{font-family:tahoma; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:bold; color: #66ccff; border-color:#6c7170}
+.cColumnTPositiveN{font-family:tahoma; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:bold; color: #00ff00; border-color:#6c7170}
+.cColumnTMinusN	{font-family:tahoma; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:bold; color: #ff0000; border-color:#6c7170}
+.cColumnTFixedN	{font-family:tahoma; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:bold; color: #f7ff31; border-color:#6c7170}
+
+.cColumnMediumB	{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal;  color: #f7ff31; border-color:#6c7170; background-color: #5c0020}
+.cColumnMaxB	{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #ff00ff; border-color:#6c7170; background-color: #5c0020}
+.cColumnMinB	{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #66ccff; border-color:#6c7170; background-color: #5c0020}
+.cColumnPositiveB{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #00ff00; border-color:#6c7170; background-color: #5c0020}
+.cColumnMinusB	{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #ff0000; border-color:#6c7170; background-color: #5c0020}
+.cColumnFixedB	{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #f7ff31; border-color:#6c7170; background-color: #5c0020}
+.cColumnDataB	{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #ffffff; border-color:#6c7170; background-color: #5c0020}	
+.cColumnQuantiyB{font-family:arial; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #003062; border-color:#6c7170; background-color: #5c0020}
+
+.cColumnTMediumB	{font-family:tahoma; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:bold;  color: #f7ff31; border-color:#6c7170; background-color: #5c0020}
+.cColumnTMaxB	{font-family:tahoma; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:bold; color: #ff00ff; border-color:#6c7170; background-color: #5c0020}
+.cColumnTMinB	{font-family:tahoma; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:bold; color: #66ccff; border-color:#6c7170; background-color: #5c0020}
+.cColumnTPositiveB{font-family:tahoma; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:bold; color: #00ff00; border-color:#6c7170; background-color: #5c0020}
+.cColumnTMinusB	{font-family:tahoma; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:bold; color: #ff0000; border-color:#6c7170; background-color: #5c0020}
+.cColumnTFixedB	{font-family:tahoma; font-size:9pt; text-align:right; padding: 0 2 0 2; font-weight:bold; color: #f7ff31; border-color:#6c7170; background-color: #5c0020}
+
+.cInfoLabel		{font-family:tahoma; font-size:8pt; text-align:left; padding: 0 2 0 2; font-weight:bold; color: #a5a3a3}
+.cInfoValue1	{font-family:tahoma; font-size:8pt; text-align:left; padding: 0 2 0 2; font-weight:bold; color: #2b9700}
+.cInfoValue2	{font-family:tahoma; font-size:8pt; text-align:left; padding: 0 2 0 2; font-weight:bold; color: #ee0000}
+
+.cFeature		{font-family:tahoma; font-size:8pt; text-align:right; padding: 0 2 0 2; font-weight:normal; color: #860a01; text-decoration: none;}
+.cFeatureText	{font-family:tahoma; font-size:8pt; text-align:left; padding: 0 2 0 2; font-weight:normal; color: #a5a3a3; text-decoration: none;}
+
+.cCopyright		{font-family:tahoma; font-size:8pt; text-align:left; padding: 2 2 2 2; font-weight:normal; color: #a5a3a3; text-decoration: none; margin-top:4; margin-bottom:4}
+.cCopyright1		{font-family:tahoma; font-size:9pt; text-align:left; padding: 2 2 2 2; font-weight:normal; color: #a5a3a3; text-decoration: none; margin-top:4; margin-bottom:4}
+
+.TabSel 	{font-family: tahoma; font-size: 10pt; font-weight:bold; color: #e60000; text-align: center }
+.TabUnSel {font-family: tahoma; font-size: 10pt; font-weight:normal; color: #a5a3a3; text-align: center}
+
+.tbs, .tbu 	{font-family:arial; font-size: 10pt; font-weight:bold; vertical-align: middle; white-space:nowrap; height:20; cursor:pointer; text-align: center;}
+.tbs 		{color: #e60000;}
+.tbu		{color: #e4e0e0;}
+.statusnormal {color:#FFF;font-family:Arial;font-size:9pt;font-weight:bold;}
+
+td {
+	border-color:#6c7170;
+}

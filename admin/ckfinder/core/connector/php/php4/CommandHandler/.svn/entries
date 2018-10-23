@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://ban-vai-2013.googlecode.com/svn/trunk/admin/ckfinder/core/connector/php/php4/CommandHandler
+https://ban-vai-2013.googlecode.com/svn
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+f178f189-cff6-2352-78ad-01eb337c3e39
+
+MoveFiles.php
+file
+
+
+
+add
+
+CopyFiles.php
+file
+
+
+
+add
+
+DeleteFolder.php
+file
+
+
+
+add
+
+GetFolders.php
+file
+
+
+
+add
+
+CreateFolder.php
+file
+
+
+
+add
+
+DeleteFile.php
+file
+
+
+
+add
+
+GetFiles.php
+file
+
+
+
+add
+
+Init.php
+file
+
+
+
+add
+
+RenameFolder.php
+file
+
+
+
+add
+
+CommandHandlerBase.php
+file
+
+
+
+add
+
+DownloadFile.php
+file
+
+
+
+add
+
+RenameFile.php
+file
+
+
+
+add
+
+QuickUpload.php
+file
+
+
+
+add
+
+Thumbnail.php
+file
+
+
+
+add
+
+FileUpload.php
+file
+
+
+
+add
+
+XmlCommandHandlerBase.php
+file
+
+
+
+add
+

@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://ban-vai-2013.googlecode.com/svn/trunk/admin/ckfinder
+https://ban-vai-2013.googlecode.com/svn
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+f178f189-cff6-2352-78ad-01eb337c3e39
+
+ckfinder.js
+file
+
+
+
+add
+
+config.js
+file
+
+
+
+add
+
+_samples
+dir
+
+
+
+add
+
+changelog.txt
+file
+
+
+
+add
+
+ckfinder_v1.js
+file
+
+
+
+add
+
+_notes
+dir
+
+
+
+add
+
+ckfinder.html
+file
+
+
+
+add
+
+core
+dir
+
+
+
+add
+
+ckfinder.php
+file
+
+
+
+add
+
+config.php
+file
+
+
+
+add
+

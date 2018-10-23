@@ -1,0 +1,154 @@
+10
+
+dir
+0
+https://ban-vai-2013.googlecode.com/svn/trunk/admin/ckeditor/_source/skins/office2003
+https://ban-vai-2013.googlecode.com/svn
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+f178f189-cff6-2352-78ad-01eb337c3e39
+
+icons_rtl.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+skin.js
+file
+
+
+
+add
+
+elementspath.css
+file
+
+
+
+add
+
+templates.css
+file
+
+
+
+add
+
+dialog.css
+file
+
+
+
+add
+
+panel.css
+file
+
+
+
+add
+
+toolbar.css
+file
+
+
+
+add
+
+menu.css
+file
+
+
+
+add
+
+richcombo.css
+file
+
+
+
+add
+
+icons.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+icons.css
+file
+
+
+
+add
+
+images
+dir
+
+
+
+add
+
+mainui.css
+file
+
+
+
+add
+
+reset.css
+file
+
+
+
+add
+
+presets.css
+file
+
+
+
+add
+
+editor.css
+file
+
+
+
+add
+

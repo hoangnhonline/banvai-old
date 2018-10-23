@@ -1,0 +1,196 @@
+10
+
+dir
+0
+https://ban-vai-2013.googlecode.com/svn/trunk/admin/ckeditor
+https://ban-vai-2013.googlecode.com/svn
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+f178f189-cff6-2352-78ad-01eb337c3e39
+
+ckeditor.js
+file
+
+
+
+add
+
+ckeditor_basic.js
+file
+
+
+
+add
+
+config.js
+file
+
+
+
+add
+
+ckeditor.pack
+file
+
+
+
+add
+
+lang
+dir
+
+
+
+add
+
+plugins
+dir
+
+
+
+add
+
+contents.css
+file
+
+
+
+add
+
+LICENSE.html
+file
+
+
+
+add
+
+ckeditor_php4.php
+file
+
+
+
+add
+
+themes
+dir
+
+
+
+add
+
+ckeditor.asp
+file
+
+
+
+add
+
+ckeditor_php5.php
+file
+
+
+
+add
+
+skins
+dir
+
+
+
+add
+
+_notes
+dir
+
+
+
+add
+
+ckeditor.php
+file
+
+
+
+add
+
+ckeditor_source.js
+file
+
+
+
+add
+
+_source
+dir
+
+
+
+add
+
+ckeditor_basic_source.js
+file
+
+
+
+add
+
+_samples
+dir
+
+
+
+add
+
+adapters
+dir
+
+
+
+add
+
+images
+dir
+
+
+
+add
+
+INSTALL.html
+file
+
+
+
+add
+
+.htaccess
+file
+
+
+
+add
+
+CHANGES.html
+file
+
+
+
+add
+

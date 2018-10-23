@@ -1,0 +1,259 @@
+10
+
+dir
+0
+https://ban-vai-2013.googlecode.com/svn/trunk/admin/ckeditor/plugins/ajaxfilemanager
+https://ban-vai-2013.googlecode.com/svn
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+f178f189-cff6-2352-78ad-01eb337c3e39
+
+ajax_editor_reset.php
+file
+
+
+
+add
+
+ajax_text_editor.php
+file
+
+
+
+add
+
+ajax_file_cut.php
+file
+
+
+
+add
+
+_ajax_load_folders.php
+file
+
+
+
+add
+
+ajax_create_folder.php
+file
+
+
+
+add
+
+ajax_image_save.php
+file
+
+
+
+add
+
+ajax_save_as_form.php
+file
+
+
+
+add
+
+ajax_image_undo.php
+file
+
+
+
+add
+
+ajax_download.php
+file
+
+
+
+add
+
+langs
+dir
+
+
+
+add
+
+ajax_file_paste.php
+file
+
+
+
+add
+
+_ajax_get_details_listing.php
+file
+
+
+
+add
+
+ajax_file_upload.php
+file
+
+
+
+add
+
+ajax_image_thumbnail.php
+file
+
+
+
+add
+
+ajax_image_editor.php
+file
+
+
+
+add
+
+session
+dir
+
+
+
+add
+
+ajax_save_name.php
+file
+
+
+
+add
+
+debug.html
+file
+
+
+
+add
+
+mediaplayer.swf
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+error_log
+file
+
+
+
+add
+
+ajax_delete_file.php
+file
+
+
+
+add
+
+ajax_save_text.php
+file
+
+
+
+add
+
+ajax_get_folder_listing.php
+file
+
+
+
+add
+
+ajax_get_file_listing.php
+file
+
+
+
+add
+
+ajax_login.php
+file
+
+
+
+add
+
+jscripts
+dir
+
+
+
+add
+
+ajax_file_copy.php
+file
+
+
+
+add
+
+theme
+dir
+
+
+
+add
+
+_ajax_get_thumbnail_listing.php
+file
+
+
+
+add
+
+ajaxfilemanager.php
+file
+
+
+
+add
+
+inc
+dir
+
+
+
+add
+
+ajax_preview.php
+file
+
+
+
+add
+

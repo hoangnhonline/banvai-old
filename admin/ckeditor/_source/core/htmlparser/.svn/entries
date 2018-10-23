@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://ban-vai-2013.googlecode.com/svn/trunk/admin/ckeditor/_source/core/htmlparser
+https://ban-vai-2013.googlecode.com/svn
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+f178f189-cff6-2352-78ad-01eb337c3e39
+
+text.js
+file
+
+
+
+add
+
+filter.js
+file
+
+
+
+add
+
+element.js
+file
+
+
+
+add
+
+cdata.js
+file
+
+
+
+add
+
+basicwriter.js
+file
+
+
+
+add
+
+comment.js
+file
+
+
+
+add
+
+fragment.js
+file
+
+
+
+add
+
